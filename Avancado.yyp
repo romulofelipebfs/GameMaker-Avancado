@@ -35,10 +35,12 @@
   "name":"Avancado",
   "resources":[
     {"id":{"name":"fnt_titulo","path":"fonts/fnt_titulo/fnt_titulo.yy",},},
+    {"id":{"name":"obj_ds_list","path":"objects/obj_ds_list/obj_ds_list.yy",},},
     {"id":{"name":"obj_numeros","path":"objects/obj_numeros/obj_numeros.yy",},},
     {"id":{"name":"obj_texto","path":"objects/obj_texto/obj_texto.yy",},},
     {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sq_teste","path":"sequences/sq_teste/sq_teste.yy",},},
     {"id":{"name":"spr_coiso","path":"sprites/spr_coiso/spr_coiso.yy",},},
     {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},},
   ],
